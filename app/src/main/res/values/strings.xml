@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeterToInchesApp</string>
+    <string name="error_msg">PLEASE ENTER A VALID NUMBER</string>
+</resources>
